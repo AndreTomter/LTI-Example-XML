@@ -27,8 +27,11 @@ To install you must have a course in your LMS as well as the ability to make cou
 * Also make sure you can make POST requests to it (otherwise you'll get a 405 error)
 
 ## Beware of nested sites
-Before you go ahead and just display your standard website within the LTI frame, think about if you really want to display a website inside of a website inside of a website. Is that really the user experience you are going for?
+
+Before you go ahead and just display a standard website within the LTI frame with it's own side and/or top nav, banners, multi columns, think about if you really want to display a website inside of a website inside of a website. Is that really the user experience you are going for?
 
 ## Learn more
-You can go to https://www.edu-apps.org/build_xml.html to build your own XML and learn more.
 
+* Fun with building your own XML https://www.edu-apps.org/build_xml.html
+* Writing LTI Stuff https://www.edu-apps.org/code.html 
+* Canvas Variable Substitutions https://canvas.instructure.com/doc/api/file.tools_variable_substitutions.html
