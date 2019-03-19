@@ -23,7 +23,7 @@ To install you must have a course in your LMS as well as the ability to make cou
 * Upload the launch.php page to your web server. You can update it to be a custom page for those visiting from within the LTI
 * Update the (blti:launch_url) and (lticm:property name="url") tags to point to the page
 * This is your “Launch Page”
-* Make sure it is hosted on https (since will be displayed within an iframe in an https page
+* Make sure it is hosted on https (since will be displayed within an iframe in an https page)
 * Also make sure you can make POST requests to it (otherwise you'll get a 405 error)
 
 ## Beware of nested sites
