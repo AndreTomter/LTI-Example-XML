@@ -8,7 +8,7 @@ It is a simple “Hello Library” example which does the following:
 
 ## Install
 
-To install you must have a course in your LMS as well as the ability to make course-level installs
+To install you must have a course in your LMS that you can play with as well as the ability to make course-level installs
 
 * Go to your course settings
 * Install the app. For example, in Canvas go to Apps then View App Configuration then Add App
