@@ -33,5 +33,6 @@ Before you go ahead and just display a standard website within the LTI frame wit
 ## Learn more
 
 * Fun with building your own XML https://www.edu-apps.org/build_xml.html
+* Launch URL: https://canvas.instructure.com/courses/913512/pages/launch-url
 * Writing LTI Stuff https://www.edu-apps.org/code.html 
 * Canvas Variable Substitutions https://canvas.instructure.com/doc/api/file.tools_variable_substitutions.html
