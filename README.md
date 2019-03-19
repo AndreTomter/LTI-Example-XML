@@ -30,9 +30,9 @@ To install you must have a course in your LMS as well as the ability to make cou
 
 Before you go ahead and just display a standard website within the LTI frame with it's own side and/or top nav, banners, multi columns, think about if you really want to display a website inside of a website inside of a website. Is that really the user experience you are going for?
 
-## Learn more
+## Learn more about LTI development
 
-* Fun with building your own XML https://www.edu-apps.org/build_xml.html
+* Fun with building your own XML: https://www.edu-apps.org/build_xml.html
 * Launch URL: https://canvas.instructure.com/courses/913512/pages/launch-url
-* Writing LTI Stuff https://www.edu-apps.org/code.html 
-* Canvas Variable Substitutions https://canvas.instructure.com/doc/api/file.tools_variable_substitutions.html
+* Writing LTI Stuff: https://www.edu-apps.org/code.html 
+* Canvas Variable Substitutions: https://canvas.instructure.com/doc/api/file.tools_variable_substitutions.html
