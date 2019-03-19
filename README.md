@@ -4,7 +4,7 @@ A simple example to understand how Learning Tool Integrations (LTI) work in your
 It is a simple “Hello Library” example which does the following:
 
 * Places a button in the course navigation menu
-* Displays a library home page (or any other page) listed between the <blti:launch_url></blti:launch_url> tags
+* Displays a simple "tool" page listed between the (blti:launch_url) and (lticm:property name="url") tags
 
 ## Install
 
