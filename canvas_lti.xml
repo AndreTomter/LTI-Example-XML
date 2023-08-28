@@ -8,8 +8,8 @@ xsi:schemaLocation = "http://www.imsglobal.org/xsd/imslticc_v1p0 http://www.imsg
 http://www.imsglobal.org/xsd/imsbasiclti_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imsbasiclti_v1p0.xsd
 http://www.imsglobal.org/xsd/imslticm_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticm_v1p0.xsd
 http://www.imsglobal.org/xsd/imslticp_v1p0 http://www.imsglobal.org/xsd/lti/ltiv1p0/imslticp_v1p0.xsd">
-	<blti:title>Hello Library</blti:title>
-	<blti:description>My library custom LTI</blti:description>
+	<blti:title>Min LTI app</blti:title>
+	<blti:description>LTI app hosted fra min GitHub side</blti:description>
 	<blti:launch_url>https://andretomter.github.io/LTI-Example-XML/launch.php</blti:launch_url>
 	<blti:extensions platform="canvas.instructure.com">
 		<lticm:property name="privacy_level">public</lticm:property>
